@@ -47,7 +47,7 @@ You can follow same procedure in the official  AWS document [Getting started wit
    --zones <AZ-1>,<AZ-2>
    
    example:
-   eksctl create cluster --name valaxy-cluster \
+   eksctl create cluster --name project-cluster \
    --region ap-south-1 \
    --node-type t2.small \
     ```
